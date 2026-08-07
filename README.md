@@ -1,2 +1,2 @@
 # apsii
-Repositório da disciplina de análise e sistemas II
+Repositório para estudos da disciplina de Análise e Projeto Sistemas II
